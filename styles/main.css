@@ -17,7 +17,7 @@ header {
   color: #fff;
   height: 115vh;
   background: linear-gradient(rgba(38, 0, 255, 0.2), rgba(0, 255, 21, 0.1)),
-    url("/images/building-main.jpg") no-repeat center/cover fixed;
+    url("../images/building-main.jpg") no-repeat center/cover fixed;
 
   overflow: hidden;
 }
@@ -139,7 +139,7 @@ main .about-us {
   padding-left: 2em;
 }
 main .about-building {
-  background: url("/images/building-about.jpg") no-repeat center/cover;
+  background: url("../images/building-about.jpg") no-repeat center/cover;
   width: 50%;
   margin-top: -5em;
 }
@@ -232,7 +232,7 @@ main .about-us p {
 .featured-image {
   width: 20rem;
   height: 20rem;
-  background: url("/images/building-about.jpg") no-repeat center/cover;
+  background: url("../images/building-about.jpg") no-repeat center/cover;
 }
 .featured-item p {
   text-align: justify;
